@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dual Torch Controller</string>
+    <string name="header_subtitle">X6725 · HARDWARE TORCH CONSOLE</string>
+    <string name="rear_torch_title">REAR TORCH</string>
+    <string name="front_led_title">FRONT LED</string>
+    <string name="status_on">ON</string>
+    <string name="status_off">OFF</string>
+    <string name="status_unavailable">UNAVAILABLE</string>
+    <string name="status_busy">CAMERA BUSY</string>
+    <string name="brightness_label">INTENSITY</string>
+    <string name="brightness_fixed">Fixed hardware output (no dimmable levels)</string>
+    <string name="all_off_button">TURN ALL OFF</string>
+    <string name="grant_camera_permission">Grant Camera Access</string>
+    <string name="permission_banner_title">Camera permission optional for standard torch, required for Camera2 session fallback</string>
+    <string name="inspector_title">Hardware &amp; HAL Inspector</string>
+    <string name="inspector_button_cd">Open hardware diagnostics inspector</string>
+    <string name="rescan_hardware">Rescan Hardware</string>
+    <string name="copy_report">Copy Report</string>
+    <string name="report_copied">Hardware report copied to clipboard</string>
+    <string name="close_inspector">Close</string>
+</resources>

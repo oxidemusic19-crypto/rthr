@@ -1,0 +1,6 @@
+{
+  "name": "Dual Torch Controller",
+  "description": "AMOLED dual rear torch and front hardware LED controller with Camera2 hardware diagnostics for Infinix Smart 10 (X6725).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
